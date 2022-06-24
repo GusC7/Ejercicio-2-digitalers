@@ -1,0 +1,91 @@
+*{
+    background-color: rgb(36,50,58);
+}
+
+
+h1 {
+    font-family: Impact, Charcoal, sans-serif;
+    color: #698593;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+    letter-spacing: 2px;
+    
+}
+
+p {
+    color: #d1d5ce;
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+    font-size: 15px;
+}
+
+.aspiradora {
+    font-family: Impact, Gadget, sans-serif;
+    font-size: 25px;
+    font-style: italic;
+    letter-spacing: 2px;
+    color: #e6cbbf;
+    font-variant: small-caps;
+}
+
+.asp {
+    border: 5px solid #e6cbbf;
+    margin-left: 35px;
+}
+
+.celulares {
+    font-family: Impact, Gadget, sans-serif;
+    font-size: 25px;
+    font-style: italic;
+    letter-spacing: 2px;
+    color: #a1c1cb;
+    font-variant: small-caps;
+}
+
+.cel {
+    border: 5px solid #a1c1cb;
+    margin-left: 35px;
+}
+
+.consolas {
+    font-family: Impact, Gadget, sans-serif;
+    font-size: 25px;
+    font-style: italic;
+    letter-spacing: 2px;
+    color: #bcbdbf;
+    font-variant: small-caps;
+}
+
+.con {
+    border: 5px solid #bcbdbf;
+    margin-left: 35px;
+}
+
+.home {
+    font-family: Impact, Gadget, sans-serif;
+    font-size: 25px;
+    font-style: italic;
+    letter-spacing: 2px;
+    color: #8d94a1;
+    font-variant: small-caps;
+}
+
+.hom {
+    border: 5px solid #8d94a1;
+    margin-left: 35px;
+}
+
+.televisores {
+    font-family: Impact, Gadget, sans-serif;
+    font-size: 25px;
+    font-style: italic;
+    letter-spacing: 2px;
+    color: #b2b2aa;
+    font-variant: small-caps;
+}
+
+.tele {
+    border: 5px solid #b2b2aa;
+    margin-left: 35px;
+}
